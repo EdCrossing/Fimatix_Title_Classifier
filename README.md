@@ -18,7 +18,7 @@ This project evaluates different machine learning architectures to classify sect
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/EdCrossing/Fimatix_Title_Classifier
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
