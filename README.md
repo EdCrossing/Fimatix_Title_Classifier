@@ -47,6 +47,7 @@ The MLP achieves an accuracy of ~96.0% on the validation set.
 The RF achieves an accuracy of ~97.5% on the validation set
 
 ### Future Work
-- Experiment with more complex models.
-- unit testing
-- more robust error logging
+- Experiment with other features and approaches such as CNNs.
+- Combine multiple models (Random Forest, MLP, CNN).
+- Unit testing
+- Error logging
