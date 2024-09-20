@@ -1,7 +1,0 @@
-Best Trial at 20240919_155327
-Value: 0.9626990370837535
-Params:
-  hidden_size1: 316
-  hidden_size2: 88
-  learning_rate: 0.019139110434202567
-  dropout_rate: 0.10385098154468628
